@@ -67,7 +67,7 @@ class DefaultFirebaseOptions {
     messagingSenderId: '296143700253',
     projectId: 'real-imobil-7dad9',
     storageBucket: 'real-imobil-7dad9.appspot.com',
-    iosBundleId: 'com.example.casa1',
+    iosBundleId: 'com.example.real-imobil',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
@@ -79,5 +79,4 @@ class DefaultFirebaseOptions {
     storageBucket: 'real-imobil-7dad9.appspot.com',
     measurementId: 'G-JF8J7C4G80',
   );
-
 }
